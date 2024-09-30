@@ -3,6 +3,7 @@ import {Outlet} from "react-router-dom";
 import Header from "./Header.jsx";
 import Sidebar from "./Sidebar.jsx";
 import styled from "styled-components";
+import Uploader from "../data/Uploader.jsx";
 
 const StyledAppLayout = styled.div`
   display: grid;
